@@ -1,4 +1,4 @@
-IT Student | Web & Software Dev  
+CS Student | Web & Software Dev  
 Philippines
 
 Building systems. Learning every day.
