@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Shina
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Phyton, C, JS and C++
-- 💞️ I’m looking to collaborate to everyone 
+IT Student | Web & Software Dev  
+Philippines
+
+Building systems. Learning every day.
+
+C# • PHP • MySQL • JS
