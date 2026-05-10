@@ -1,4 +1,4 @@
-CS Student | Web & Software Dev  
+CS Student | Web & Software Dev | UI/UX
 Philippines
 
 Building systems. Learning every day.
